@@ -1,12 +1,19 @@
 # production-laitier
 
+Base de donnee: mySql
 Language : PHP
 Framework: CodeIgniter, Bootstrap
 
 Librairie Utilises:  email, excel
 
 
-gestion de production laitier 
+
+
+Script: script.sql dossier root
+
+
+
+Gestion de production laitier 
 
 
 I. Partie super-utilisateur:
