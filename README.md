@@ -1,14 +1,15 @@
 # production-laitier
-CodeIgniter php
+
+Language : PHP
+Framework: CodeIgniter, Bootstrap
+
+Librairie Utilises:  email, excel
+
 
 gestion de production laitier 
 
-I .. Partie simple utilisateur:
-  1. Inscription
-  2. Login
-  3. 
 
-II. Partie super-utilisateur:
+I. Partie super-utilisateur:
   1. Login
   2. Validation inscription (envoi mail automatique pour confirmation)
   3. Insertion achat de matiere premiere: . insertion en entree stock matiere premiere
@@ -21,3 +22,11 @@ II. Partie super-utilisateur:
                                   . insertion en sortie stock matiere premiere
   8. Etat de stock de chaque produit fini
   9. Insertion de vente de produit : . insertion en sortie stock produit fini
+
+
+II. Partie simple utilisateur:
+  1. Inscription
+  Tous les modules du super-utilisateur sont visibles par les simples utilisateurs sauf :
+      2.
+      3.
+      9.
