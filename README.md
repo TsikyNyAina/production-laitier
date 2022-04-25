@@ -40,6 +40,7 @@ I. Partie super-utilisateur:
 
 II. Partie simple utilisateur:
   1. Inscription
+  
   Tous les modules du super-utilisateur sont visibles par les simples utilisateurs sauf :
       2.
       3.
