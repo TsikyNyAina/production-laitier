@@ -1,8 +1,15 @@
 # production-laitier
 
 Base de donnee: mySql
-Language : PHP,HTML
+
+
+Language : PHP,HTML,JS
+
+
 Framework: CodeIgniter, Bootstrap
+
+
+
 
 Librairie Utilises:  email, excel
 
